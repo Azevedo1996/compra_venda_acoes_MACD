@@ -1,0 +1,1 @@
+# compra_venda_acoes_MACD
